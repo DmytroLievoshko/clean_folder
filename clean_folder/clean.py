@@ -1,4 +1,3 @@
-from os import remove
 import pathlib
 import sys
 import re
