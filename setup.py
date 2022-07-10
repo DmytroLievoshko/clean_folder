@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='1.0.0',
     description='Sort files in directory by categories',
-    url='https://github.com/DmytroLievoshko/lesson-six-working-with-files.git',
+    url='https://github.com/DmytroLievoshko/clean_folder.git',
     author='Dmytro Lievoshko',
     author_email='levka296@gmail.com',
     license='MIT',
